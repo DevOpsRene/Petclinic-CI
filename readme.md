@@ -1,7 +1,6 @@
 # PetClinic CI
 
-
-// Insert URL to status image here.
+[![Build Status](https://travis-ci.com/DevOpsRene/Petclinic-CI.svg?branch=master)](https://travis-ci.com/DevOpsRene/Petclinic-CI)
 
 
 # License
